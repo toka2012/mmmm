@@ -1,0 +1,29 @@
+button{
+    background-color:burlywood;
+    padding: 20px 40px;
+      font-size: 16px;
+      border-radius: 50px;
+      background-position: 50%;
+      margin-left: 642px;
+      margin-top: 250px;
+      
+}
+body {
+   background-color: mistyrose;
+}
+a {
+    color: black;
+    background-color:burlywood; 
+    padding: 10px;
+    margin-top: 140px;
+    margin-left: 285px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+img {
+    width: 550px;
+}
+h1{
+    text-align: center;
+}
+
